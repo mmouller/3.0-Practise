@@ -1,0 +1,7 @@
+C:\Users\cnfcn\source\repos\Modul3.Practise\4thTask\bin\Debug\4thTask.exe.config
+C:\Users\cnfcn\source\repos\Modul3.Practise\4thTask\bin\Debug\4thTask.exe
+C:\Users\cnfcn\source\repos\Modul3.Practise\4thTask\bin\Debug\4thTask.pdb
+C:\Users\cnfcn\source\repos\Modul3.Practise\4thTask\obj\Debug\4thTask.csproj.AssemblyReference.cache
+C:\Users\cnfcn\source\repos\Modul3.Practise\4thTask\obj\Debug\4thTask.csproj.CoreCompileInputs.cache
+C:\Users\cnfcn\source\repos\Modul3.Practise\4thTask\obj\Debug\4thTask.exe
+C:\Users\cnfcn\source\repos\Modul3.Practise\4thTask\obj\Debug\4thTask.pdb
